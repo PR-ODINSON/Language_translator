@@ -13,7 +13,7 @@ Real-Time Language Translator is a desktop application built using Python and Tk
 
 Before you begin, ensure you have the following installed:
 
-- Python 3.6 or higher
+- Python 3.6 or higher.
 
 ## Installation
 
