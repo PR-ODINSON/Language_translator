@@ -4,6 +4,7 @@ Real-Time Language Translator is a desktop application built using Python and Tk
 
 ## Features
 
+
 - **Real-Time Translation**: Instantly translate text between numerous languages.
 - **Auto-Detection**: Automatically detect the source language if unsure.
 - **User-Friendly Interface**: Easy-to-use graphical interface built with Tkinter.
@@ -25,6 +26,7 @@ Before you begin, ensure you have the following installed:
    ```
 
 2. Install the required Python packages:
+
 
    ```bash
    pip install -r requirements.txt
@@ -86,6 +88,7 @@ Contributions are welcome! If you'd like to contribute:
 5. Open a pull request.
 
 ## License
+
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
